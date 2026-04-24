@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "A portable computer"
+  },
+  {
+    "id": 2,
+    "name": "Book",
+    "description": "A collection of pages with text"
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "description": "A mobile communication device"
+  }
+]

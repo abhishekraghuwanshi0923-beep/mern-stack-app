@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "A Node.js REST API with CRUD operations",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "docs": "set \"OPEN_API_DOCS=true\" && node app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^3.0.1",
+    "supertest": "^6.3.3"
+  }
+}
