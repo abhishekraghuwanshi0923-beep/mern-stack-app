@@ -66,6 +66,14 @@ Backend runs on: `http://localhost:5000`
 - `DELETE /api/todos/:id` - Delete todo
 - `DELETE /api/todos` - Delete all todos
 
+### API Documentation
+
+The API documentation is available via Swagger UI:
+
+![API Documentation](swagger-docs.png)
+
+*Screenshot of the Swagger API documentation interface*
+
 ## Frontend Setup
 
 ```bash
